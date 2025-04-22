@@ -62,6 +62,16 @@ python infer.py
 
 ## Training of P-former
 
+Train the P-former by:
+```
+cd prompt_restorer
+python train.py
+```
+
+
+
 ## Training of P-diffusion
 
 ## Supplementary annotations and test code on 3DHistech
+
+Supplementary annotations are provided `3D_anno.csv`. 0 represents normal cells and 1 represents abnormal cells.
