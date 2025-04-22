@@ -62,11 +62,6 @@ python infer.py
 
 ## Training of P-former
 
-Train the P-former by:
-```
-cd prompt_restorer
-python train.py
-```
 
 
 
